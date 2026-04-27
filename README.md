@@ -1,7 +1,7 @@
 # CSCI-1060_Final_Project
 Made by Nick Nieman and Slater Evert
 
-We coded a model of a Delta 757-800 airplane seating chart in MATLAB. The goal of this is to give people 
+We coded a model of a Delta 737-800 airplane seating chart in MATLAB. The goal of this is to give people 
 an example of how to select seating on an airplane.
 
 Generation of Model: It first generates a seating chart by randomly selecting seats and
