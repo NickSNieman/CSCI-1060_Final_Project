@@ -22,3 +22,7 @@ number.
 
 Ending of Program: After buying seats, you can buy more seats, cancel a reservation,
 or end the program and reset the seating chart.
+
+
+V2 is unfinished (no complete menu function or pricing), but it allows for the selection of multiple
+seats regardless of section. This means that you do not have to select the section first; you only have to select the row and column.
